@@ -7,6 +7,8 @@ The default keymaps of TR60 is shown below. (Primary layer and function layer)
 
 If you want to learn more about the hardware please visit [this](https://github.com/hw-tinkerers/TR-60) link.
 
+For a video tutorial on how to customize keymap, visit [youtube-link](https://youtu.be/X8DzVzA3Ba4)
+
 1. You need to fork this repository to your github account to make any changes.
 2. You only need to change the tr60.keymap file to change the keymap for your board to customize keys to your liking.
 3. After you have made changes, please commit the changes and the firmware will start building under Actions tab.
